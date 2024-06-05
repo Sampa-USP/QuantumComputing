@@ -1,4 +1,3 @@
-Copy code
 # QuantumComputing
 
 This repository provides a comprehensive tutorial designed to initiate simulations of material interactions at the atomic level using quantum computers.

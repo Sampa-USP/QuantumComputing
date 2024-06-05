@@ -1,16 +1,16 @@
 Copy code
 # QuantumComputing
 
-Este repositório tem o roteiro de aprendizado de computação quântica aplicada ao cálculo de primeiros princípios.
+This repository provides a comprehensive tutorial designed to initiate simulations of material interactions at the atomic level using quantum computers.
 
 ## Sumário
 
 1. [Quantum Computing Theory](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory)
-    - [1.1 Single Qubit System](#11-single-qubit-system)
-    - [1.2 Two or more independent Qubit System](#12-two-or-more-independent-qubit-system)
-    - [1.3 Two or more correlated Qubit System](#13-two-or-more-correlated-qubit-system)
-    - [1.4 Logic Operators](#14-logic-operators)
-    - [1.5 Expected Value](#15-expected-value)
+    - [1.1 Single Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/01.%20Single%20Qubit%20System)
+    - [1.2 Two or more independent Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/02.%20Two%20or%20more%20independent%20Qubit%20System)
+    - [1.3 Two or more correlated Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/03.%20Two%20or%20more%20correlated%20Qubit%20System)
+    - [1.4 Logic Operators](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/04.%20Operadores%20lógicos)
+    - [1.5 Expected Value](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/05.%20Valor%20Esperado%20do%20sistema)
 
 2. [NISC Hardware](#2-nisc-hardware)
     - [2.1 Tipos de Hardware Quântico](#21-tipos-de-hardware-quântico)

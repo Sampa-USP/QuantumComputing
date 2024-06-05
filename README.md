@@ -5,11 +5,11 @@ This repository provides a comprehensive tutorial designed to initiate simulatio
 ## Sumário
 
 1. [Quantum Computing Theory](/01.%20Quantum%20Computing%20Theory)
-    - [1.1 Single Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/01.%20Single%20Qubit%20System)
-    - [1.2 Two or more independent Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/02.%20Two%20or%20more%20independent%20Qubit%20System)
-    - [1.3 Two or more correlated Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/03.%20Two%20or%20more%20correlated%20Qubit%20System)
-    - [1.4 Logic Operators](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/04.%20Operadores%20lógicos)
-    - [1.5 Expected Value](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/05.%20Valor%20Esperado%20do%20sistema)
+    - [1.1 Single Qubit System](/01.%20Quantum%20Computing%20Theory/01.%20Single%20Qubit%20System)
+    - [1.2 Two or more independent Qubit System](01.%20Quantum%20Computing%20Theory/02.%20Two%20or%20more%20independent%20Qubit%20System)
+    - [1.3 Two or more correlated Qubit System](/01.%20Quantum%20Computing%20Theory/03.%20Two%20or%20more%20correlated%20Qubit%20System)
+    - [1.4 Logic Operators](/01.%20Quantum%20Computing%20Theory/04.%20Operadores%20lógicos)
+    - [1.5 Expected Value](01.%20Quantum%20Computing%20Theory/05.%20Valor%20Esperado%20do%20sistema)
 
 2. [NISC Hardware](#2-nisc-hardware)
     - [2.1 Tipos de Hardware Quântico](#21-tipos-de-hardware-quântico)

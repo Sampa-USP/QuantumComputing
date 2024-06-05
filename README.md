@@ -5,7 +5,7 @@ Este repositório tem o roteiro de aprendizado de computação quântica aplicad
 
 ## Sumário
 
-1. [Quantum Computing Theory](#1-quantum-computing-theory)
+1. [Quantum Computing Theory](#https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory)
     - [1.1 Single Qubit System](#11-single-qubit-system)
     - [1.2 Two or more independent Qubit System](#12-two-or-more-independent-qubit-system)
     - [1.3 Two or more correlated Qubit System](#13-two-or-more-correlated-qubit-system)

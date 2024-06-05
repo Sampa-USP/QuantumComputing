@@ -12,7 +12,7 @@ This repository provides a comprehensive tutorial designed to initiate simulatio
     - [1.5 Expected Value](01.%20Quantum%20Computing%20Theory/05.%20Valor%20Esperado%20do%20sistema)
 
 2. [NISC Hardware](#2-nisc-hardware)
-    - [2.1 Tipos de Hardware Quântico](#21-tipos-de-hardware-quântico)
+    - [2.1 Quantum Hardwares](#21-tipos-de-hardware-quântico)
         - [2.1.1 Superconduction QPU](#211-superconduction-qpu)
         - [2.1.2 Photonic QPU](#212-photonic-qpu)
         - [2.1.3 Neutral-Atom Based QPU](#213-neutral-atom-based-qpu)

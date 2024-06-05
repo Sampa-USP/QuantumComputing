@@ -1,10 +1,10 @@
-# QuantumComputing
+# Quantum Computing
 
 This repository provides a comprehensive tutorial designed to initiate simulations of material interactions at the atomic level using quantum computers.
 
 ## Sumário
 
-1. [Quantum Computing Theory](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory)
+1. [Quantum Computing Theory](/main/01.%20Quantum%20Computing%20Theory)
     - [1.1 Single Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/01.%20Single%20Qubit%20System)
     - [1.2 Two or more independent Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/02.%20Two%20or%20more%20independent%20Qubit%20System)
     - [1.3 Two or more correlated Qubit System](https://github.com/Sampa-USP/QuantumComputing/tree/main/01.%20Quantum%20Computing%20Theory/03.%20Two%20or%20more%20correlated%20Qubit%20System)

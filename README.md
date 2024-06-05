@@ -28,8 +28,8 @@ This repository provides a comprehensive tutorial designed to initiate simulatio
         - [2.3.2 Richardson Extrapolation](02.%20NISC%20Hardware/03.%20Quantum%20Noise%20Mitigation%20Technique/Richardson%20Extrapolation)
 
 3. [Ab-initio Calculation](03.%20Ab-Initio%20Calculation)
-    - [3.1 Building System's Hamiltonian](03.%20Ab-Initio%20Calculation/01.%20Building%20Systems%20Hamiltonian
-        - [3.1.1 Bohr-Oppenheimer Approximation] (03.%20Ab-Initio%20Calculation/01.%20Building%20Systems%20Hamiltonian/01.Bohr-Oppenheimer%20approximation.ipynb)
+    - [3.1 Building System's Hamiltonian](03.%20Ab-Initio%20Calculation/01.%20Building%20Systems%20Hamiltonian)
+        - [3.1.1 Bohr-Oppenheimer Approximation](03.%20Ab-Initio%20Calculation/01.%20Building%20Systems%20Hamiltonian/01.Bohr-Oppenheimer%20approximation.ipynb)
         - [3.1.2 Fock Space](03.%20Ab-Initio%20Calculation/01.%20Building%20Systems%20Hamiltonian/02.Fock%20space.ipynb)
         - [3.1.3 Fermionic Creation and Annihilation Operators](03.%20Ab-Initio%20Calculation/01.%20Building%20Systems%20Hamiltonian/03.Fermionic%20creation%20and%20annihilation%20operators.ipynb)
         - [3.1.4 Slater Type Orbitals](03.%20Ab-Initio%20Calculation/01.%20Building%20Systems%20Hamiltonian/04.Slater-type%20orbitals.ipynb)

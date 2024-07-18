@@ -5,11 +5,11 @@ This repository provides a comprehensive tutorial designed to initiate simulatio
 ## Sumário
 
 1. [Quantum Computing Theory](/01.Quantum_Computing_Theory)
-    - [1.1 Single Qubit System](/01.%20Quantum%20Computing%20Theory/01.%20Single%20Qubit%20System)
-    - [1.2 Two or more independent Qubit System](01.%20Quantum%20Computing%20Theory/02.%20Two%20or%20more%20independent%20Qubit%20System)
-    - [1.3 Two or more correlated Qubit System](/01.%20Quantum%20Computing%20Theory/03.%20Two%20or%20more%20correlated%20Qubit%20System)
-    - [1.4 Logic Operators](01.%20Quantum%20Computing%20Theory/04.%20Logic%20Operators)
-    - [1.5 Expected Value](01.%20Quantum%20Computing%20Theory/05.%20System's%20Expected%20Value)
+    - [1.1 Single Qubit System](01.Quantum_Computing_Theory/01.Single_Qubit_System)
+    - [1.2 Two or more independent Qubit System](01.Quantum_Computing_Theory/02.Two_or_more_independent_Qubit_System)
+    - [1.3 Two or more correlated Qubit System](01.Quantum_Computing_Theory/03.Two_or_more_correlated_Qubit_System)
+    - [1.4 Logic Operators](01.Quantum_Computing_Theory/04.Logic_Operators)
+    - [1.5 Expected Value](01.Quantum_Computing_Theory/05.System's_Expected_Value)
 
 2. [NISC Hardware](02.%20NISC%20Hardware)
     - [2.1 Quantum Hardwares](02.%20NISC%20Hardware/01.%20Quantum%20Hardwares)

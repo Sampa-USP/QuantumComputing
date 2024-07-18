@@ -1,12 +1,17 @@
-# Instruções GitHub
+# Comandos básicos git
 
-git init - cria um repositório na máquina ( na pastinha que vc escolheu )
-git add <nome do arquivo> - manda os arquivos para staging
-git status - ver a situação do seu commit (stage)
-git commit -m "<mensagem do commit>" - 'comita' os arquivos da area de staging
-git remote add origin <link do repositorio do git hub> - se conectar remotamente a um repositorio do github
-git push -u origin <nome da branch> - sobe para o repositório do github, o commit da branch indicada
-git checkout -b "<nome da nova branch>" - cria uma branch
-git checkout <noma da branch> - muda para a branch informada
-git merge <nome da branch> -  dada a branch que voce se encontra, funde ela com a branch informada na linha
-git clone <link do repositorio do github> - clona (copia) na sua máquina todos os arquivos de um repositório
+
+git init - Inicializa um repositorio git na sua máquina e abre uma branch main default
+
+git add <i>(nome do arquivo)</i> - Adiciona o arquivo na 'area de staging' antes de ser commitado
+
+git commit -m <i>("mensagem do commit>")</i> - commita os arquivos que estão na 'area de staging' com uma mensagem, para o 'stage'
+
+git remote add <i>(apelido repositorio)</i> <i>(link do repositorio do github)</i> - se conecta remotamente a um repositorio do github e voce passa a se referir a ele a partir do 'apelido' que você escolhe.
+
+git push -u <i>(apelido repositorio)</i> <i>(nome da branch)</i> - da 'push' nos arquivos commitados para uma o repositorio do github na branch indicada
+
+git checkout -b <i>('nome da nova branch')</i> - cria uma nosa branch na sua máquina
+
+git checkout <i>(nome da branch)</i> - muda de branch
+

@@ -4,7 +4,7 @@ This repository provides a comprehensive tutorial designed to initiate simulatio
 
 ## Sumário
 
-1. [Quantum Computing Theory](/01.%20Quantum%20Computing%20Theory)
+1. [Quantum Computing Theory](/01.Quantum_Computing_Theory)
     - [1.1 Single Qubit System](/01.%20Quantum%20Computing%20Theory/01.%20Single%20Qubit%20System)
     - [1.2 Two or more independent Qubit System](01.%20Quantum%20Computing%20Theory/02.%20Two%20or%20more%20independent%20Qubit%20System)
     - [1.3 Two or more correlated Qubit System](/01.%20Quantum%20Computing%20Theory/03.%20Two%20or%20more%20correlated%20Qubit%20System)
